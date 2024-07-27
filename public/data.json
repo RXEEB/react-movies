@@ -1,0 +1,668 @@
+{
+  "docs": [
+    {
+      "id": 5627539,
+      "name": null,
+      "alternativeName": "The Brink of Dreams",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 1
+      },
+      "movieLength": 102,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Египет"
+        },
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Дания"
+        },
+        {
+          "name": "Катар"
+        },
+        {
+          "name": "Саудовская Аравия"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5627668,
+      "name": null,
+      "alternativeName": "Colored",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2023,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 32,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/x1000"
+      },
+      "genres": [
+        {
+          "name": "короткометражка"
+        },
+        {
+          "name": "биография"
+        },
+        {
+          "name": "история"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Тайвань"
+        },
+        {
+          "name": "Франция"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5627357,
+      "name": null,
+      "alternativeName": "Noksan",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 1
+      },
+      "movieLength": 23,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/x1000"
+      },
+      "genres": [
+        {
+          "name": "короткометражка"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Турция"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5627459,
+      "name": null,
+      "alternativeName": "Las novias del sur",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 37,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10809116/80a24a56-78e8-4912-a102-c4197083665c/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10809116/80a24a56-78e8-4912-a102-c4197083665c/x1000"
+      },
+      "genres": [
+        {
+          "name": "короткометражка"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5699221,
+      "name": "Империя UFC",
+      "alternativeName": "Fight Inc: Inside the UFC",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2024,
+      "description": "Закулисье главной ММА-организации в мире: многолетняя история развития промоушена и восхождения к славе её звезд, антураж вокруг главных боёв и ежедневная работа президента Дэны Уайта по организации крупнейших ивентов, рассказанная им самим, Хабибом Нурмагомедовым, Джоном Джонсом и другими бойцами, которые создавали наследие UFC.",
+      "shortDescription": "Как UFC стал главным бойцовским шоу планеты? Рассказывают Хабиб, Дэна Уайт и другие легенды",
+      "status": "completed",
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 95.62
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 911
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 48,
+      "ratingMpaa": null,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10703959/1ab93872-55a8-447c-8de0-f2c2483b5994/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703959/1ab93872-55a8-447c-8de0-f2c2483b5994/x1000"
+      },
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1534341/2a0000018fea2109b68d0a4294a1d67ef540/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1534341/2a0000018fea2109b68d0a4294a1d67ef540/x1000"
+      },
+      "genres": [
+        {
+          "name": "документальный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2024,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5699552,
+      "name": "История розы",
+      "alternativeName": "Mei gui de gu shi",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2024,
+      "description": "Хуан Имэй родилась в интеллигентной семье и с самого детства занималась искусствами. На работе её сразу полюбили, там она познакомилась и завела отношения с коллегой, но эта любовь закончилась. Девушка вернулась в университет, окончила его, и вышла замуж за сокурсника. Но молодожёны не сошлись характерами, и в конце концов развелись. Имэй начала заниматься бизнесом и искусством, что позволило ей встретиться с идеальным мужчиной. Однако, и эта любовь оказалась скоротечной. Пережив столько неудачных отношений, девушка не отчаивается и продолжает с оптимизмом смотреть в будущее.",
+      "shortDescription": "Дочь ученых ищет свое призвание в мире искусства. Оптимистичная китайская мелодрама о пути к мечте",
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 7.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 126,
+        "imdb": 36,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 12
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 45,
+      "ratingMpaa": null,
+      "ageRating": 18,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/218fea3f-92bf-45b1-a14b-5bfcba206b39/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/218fea3f-92bf-45b1-a14b-5bfcba206b39/x1000"
+      },
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1531675/2a0000018fed65af7a9526cd71fdb37a3fe4/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1531675/2a0000018fed65af7a9526cd71fdb37a3fe4/x1000"
+      },
+      "genres": [
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Китай"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2024,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5629200,
+      "name": null,
+      "alternativeName": "Gaga Chromatica Ball",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 8.2,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 73,
+        "imdb": 1484,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 117,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10900341/55feae32-ebd6-427c-98ce-3f40b2ad7aa6/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10900341/55feae32-ebd6-427c-98ce-3f40b2ad7aa6/x1000"
+      },
+      "genres": [
+        {
+          "name": "концерт"
+        },
+        {
+          "name": "музыка"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5632758,
+      "name": null,
+      "alternativeName": "Fern Brady: Autistic Bikini Queen",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 6.4,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 3,
+        "imdb": 453,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 57,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "poster": {
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10853012/43e3fcdc-07e9-4885-9c47-77031b9aac9f/x1000",
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10853012/43e3fcdc-07e9-4885-9c47-77031b9aac9f/orig"
+      }
+    },
+    {
+      "id": 5610381,
+      "name": null,
+      "alternativeName": "Менің атым Қызболсын",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": "Адиль — помощник прокурора, единственный сын в патриархальной семье. Выслуживаясь на работе перед шефом, он «отмазывает» в суде семейного абьюзера — сынка высокопоставленного чиновника, избивающего жену. Однажды он просыпается в альтернативной вселенной, где мужчины и женщины занимают обратные роли. В этом мире он сталкивается с неравенством и предвзятым отношением к мужчинам. Адиль меняет свои взгляды на гендерное равенство и решает помочь жертве семейного насилия. Его действия приводят к увольнению из прокуратуры, но он продолжает бороться за справедливость. В конце концов, он решает стать независимым правозащитником.",
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 213,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 80,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": 12,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10900341/1b3ccf95-9044-4fa9-a724-bdc73958e3b7/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10900341/1b3ccf95-9044-4fa9-a724-bdc73958e3b7/x1000"
+      },
+      "genres": [
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Казахстан"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5632688,
+      "name": "Вильф – ведьмин пёс",
+      "alternativeName": "Wilf the Witch's Dog",
+      "type": "animated-series",
+      "typeNumber": 5,
+      "year": 2002,
+      "description": "Вильф хочет стать ведьминым псом, но сделать это очень сложно, так как ведьмы обычно держат других животных. К счастью, он встречает Вини, учительницу ведьм.",
+      "shortDescription": "Мечтательный щенок учится варить зелья и летать на метле. Уютные приключения помощника колдуньи",
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 5,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": 6,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10768063/cc7bcb56-84eb-4424-9c16-476ea9028423/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10768063/cc7bcb56-84eb-4424-9c16-476ea9028423/x1000"
+      },
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1672343/2a0000018fce27dd398e269d68ad03d27f72/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1672343/2a0000018fce27dd398e269d68ad03d27f72/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "детский"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2002,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5633117,
+      "name": "Скрафф",
+      "alternativeName": "Rovelló",
+      "type": "animated-series",
+      "typeNumber": 5,
+      "year": 2000,
+      "description": "Семья туристов теряет своего щенка. После долгой ночи, проведенной в лесу, щенка находит Питер, молодой сельский рабочий, который усыновляет его и отвозит на ферму к своим тете и дяде.",
+      "shortDescription": "Потерявшийся городской щенок попадает на ферму. Навыки выживания в природе с четвероногим охотником",
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 6.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 5,
+        "imdb": 21,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": 6,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/fc6d5e52-6893-457d-9921-053d7bc43958/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/fc6d5e52-6893-457d-9921-053d7bc43958/x1000"
+      },
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a0000018fce40936249f084ca34d3b798f0/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a0000018fce40936249f084ca34d3b798f0/x1000"
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "детский"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Испания"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2000,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5613754,
+      "name": "Орден цветов",
+      "alternativeName": "Hua jian ling",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": "completed",
+      "rating": {
+        "kp": 0,
+        "imdb": 7.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 32,
+        "imdb": 81,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 45,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10703859/33f9b9a7-e3e9-429a-9ab3-029cd7f35d3f/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703859/33f9b9a7-e3e9-429a-9ab3-029cd7f35d3f/x1000"
+      },
+      "genres": [
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "фэнтези"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Китай"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2024,
+          "end": 2024
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    }
+  ],
+  "total": 1057227,
+  "limit": 12,
+  "page": 10,
+  "pages": 88103
+}

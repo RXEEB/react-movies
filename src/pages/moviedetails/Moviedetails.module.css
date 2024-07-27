@@ -1,0 +1,88 @@
+.card_content_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 1600px;
+    height: 100vh;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.card_poster {
+    width: 510px;
+    height: 710px;
+
+}
+
+.poster {
+    width: 500px;
+    height: 700px;
+    border-radius: 10px;
+
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
+.rating_box {
+    display: flex;
+    color: wheat;
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 30px;
+
+}
+
+.rating_box_current {
+    padding: 20px 20px;
+}
+
+.card_content {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100vh;
+    padding: 20px;
+}
+
+.card_title {
+    color: tomato;
+    font-size: 48px;
+    font-family: 'Roboto-Bold', sans-serif;
+    margin-bottom: 20px;
+}
+
+.alternativeName {
+    color: gray;
+    font-size: 28px;
+    font-family: 'Roboto-Bold', sans-serif;
+    margin-bottom: 20px;
+
+}
+
+.key {
+    display: flex;
+    color: wheat;
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.value {
+    padding-left: 20px;
+    color: gray;
+    font-size: 20px;
+    font-family: 'Roboto-Bold', sans-serif;
+}
+
+.description {
+    margin-top: 20px;
+    color: gray;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
+}
