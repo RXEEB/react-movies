@@ -2,7 +2,7 @@ import React from 'react'
 import './styles.css'
 import logo from '../../assets/images/filmix-logo-new.svg'
 import { Link } from 'react-router-dom'
-import { Search } from '../search'
+import { Search } from '../search/'
 
 export const Header = () => {
     return (

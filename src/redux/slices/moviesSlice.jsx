@@ -5,6 +5,7 @@ const moviesSlice = createSlice({
     initialState: {
         movies: [],
         movie: JSON.parse(localStorage.getItem('selectedMovie')) || {},
+
     },
 
     reducers: {
@@ -16,8 +17,9 @@ const moviesSlice = createSlice({
             state.movies = action.payload;
 
         },
+
     },
 });
 
-export const { setSelectedMovie, setMovies } = moviesSlice.actions;
+export const { setSelectedMovie, setMovies, } = moviesSlice.actions;
 export default moviesSlice.reducer;

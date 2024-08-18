@@ -3,13 +3,14 @@ import './styles.css';
 import { Link } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { setSelectedMovie } from '../../redux/slices/moviesSlice';
+import noPhoto from '../../assets/images/nophoto.jpg'
+
 
 export const Card = ({ movie }) => {
     const dispatch = useDispatch();
 
     const handleMovieSelect = () => {
         dispatch(setSelectedMovie(movie));
-        localStorage.setItem('selectedMovie', JSON.stringify(movie));
     };
 
     const truncateString = (str, maxLength) => {
@@ -21,7 +22,7 @@ export const Card = ({ movie }) => {
             <Link to='/moviedetails'>
                 <div className="movie-block-wrapper" onClick={handleMovieSelect}>
                     <div className="movie-block">
-                        <img className='img' src={movie.poster && movie.poster.previewUrl} alt='Постер' />
+                        <img className='img' src={movie.poster && movie.poster.previewUrl || noPhoto} alt='Постер' />
                         <div className="movie-block-bottom">
                             <h1 className="movie-block-title">
                                 {truncateString(movie.name || movie.alternativeName, 22)}

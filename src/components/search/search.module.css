@@ -1,11 +1,18 @@
-.formContainer {
-    position: relative;
-    left: -100px;
+.search_wrapper {
     display: flex;
     justify-content: space-between;
 }
 
+.formContainer {
+    position: relative;
+    left: -100px;
+
+}
+
+
+
 .input {
+    color: aliceblue;
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 12px 20px;
     padding-left: 42px;
@@ -23,6 +30,10 @@
 
 .sendButton {
     margin-left: auto;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: -100px;
 }
 
 .icon {
@@ -49,5 +60,12 @@
     &:hover {
         transform: rotate(180deg);
     }
+
+}
+
+.search_box {
+    width: 300px;
+    background-color: aliceblue;
+    height: 300px;
 
 }

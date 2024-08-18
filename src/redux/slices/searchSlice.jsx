@@ -2,11 +2,14 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const searchSlice = createSlice({
     name: 'search',
-    initialState: '',
+    initialState: {
+        search: [],
+    },
 
     reducers: {
+
         setSearchMovie: (state, action) => {
-            state = action.payload;
+            state.search = action.payload;
         },
     },
 });

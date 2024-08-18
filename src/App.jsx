@@ -1,12 +1,13 @@
 import React, { useEffect } from 'react';
 import './App.css';
-import { Footer } from './components/footer';
+import { SearchPage } from './pages/search/SearchPage.jsx'
 import { Header } from './components/header';
 import { Home } from './pages/home/Home.jsx';
 import { Moviedetails } from './pages/moviedetails/Moviedetails.jsx';
 import { Routes, Route } from "react-router-dom";
 import { useDispatch } from 'react-redux';
 import { setMovies } from './redux/slices/moviesSlice.jsx'
+
 
 function App() {
   const dispatch = useDispatch();
@@ -37,16 +38,13 @@ function App() {
     fetchData();
   }, []);
 
-
-
-
-
   return (
     <>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/moviedetails/" element={<Moviedetails />} />
+        <Route path="/search/" element={<SearchPage />} />
       </Routes>
 
     </>

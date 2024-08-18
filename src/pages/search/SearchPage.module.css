@@ -1,0 +1,18 @@
+.content_items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    /* height: 100%; */
+    margin: auto;
+    margin-top: 50px;
+}
+
+.empty {
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
