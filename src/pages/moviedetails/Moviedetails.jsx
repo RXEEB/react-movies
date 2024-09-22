@@ -10,7 +10,7 @@ import { Player } from '../../components/player';
 export const Moviedetails = () => {
     const movie = useSelector(state => state.movie.movie);
 
-    console.log(movie);
+
     return (
         <>
 
@@ -41,7 +41,7 @@ export const Moviedetails = () => {
                     <h1 className={styles.card_title}>{movie.name ? movie.name : movie.alternativeName}</h1>
                     <h2 className={styles.alternativeName}>{movie.alternativeName}</h2>
                     <div className={styles.key}>Актеры:
-                        {movie?.persons ? movie.persons
+                        {movie?.persons ? movie.persons.slice(0, 4)
                             .map((person) => <div className={styles.value} key={person.name} >{person.name}</div>)
                             : ''}
                     </div>
@@ -62,7 +62,7 @@ export const Moviedetails = () => {
                         <div className={styles.value}>{movie.movieLength} мин</div>
                     </div>
                     <div className={styles.description}>{movie.description}</div>
-                    <Player />
+                    <Player className={styles.player} />
                 </div>
             </div>
 

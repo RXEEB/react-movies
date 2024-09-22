@@ -1,7 +1,7 @@
 {
   "docs": [
     {
-      "id": 5627539,
+      "id": 562753256459,
       "name": null,
       "alternativeName": "The Brink of Dreams",
       "enName": null,
@@ -62,7 +62,7 @@
       "ticketsOnSale": false
     },
     {
-      "id": 5627668,
+      "id": 51234627668,
       "name": null,
       "alternativeName": "Colored",
       "enName": null,
@@ -120,7 +120,7 @@
       "ticketsOnSale": false
     },
     {
-      "id": 5627357,
+      "id": 5627350667,
       "name": null,
       "alternativeName": "Noksan",
       "enName": null,
@@ -658,6 +658,186 @@
       "top10": null,
       "top250": null,
       "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 562753923232,
+      "name": null,
+      "alternativeName": "The Brink of Dreams",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 1
+      },
+      "movieLength": 102,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Египет"
+        },
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Дания"
+        },
+        {
+          "name": "Катар"
+        },
+        {
+          "name": "Саудовская Аравия"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 5627232368,
+      "name": null,
+      "alternativeName": "Colored",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2023,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 32,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/x1000"
+      },
+      "genres": [
+        {
+          "name": "короткометражка"
+        },
+        {
+          "name": "биография"
+        },
+        {
+          "name": "история"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Тайвань"
+        },
+        {
+          "name": "Франция"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 56233539,
+      "name": null,
+      "alternativeName": "The Brink of Dreams",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 2024,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 1
+      },
+      "movieLength": 102,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/545bdbaa-0a36-4494-8041-9284f117e584/x1000"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Египет"
+        },
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Дания"
+        },
+        {
+          "name": "Катар"
+        },
+        {
+          "name": "Саудовская Аравия"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
       "ticketsOnSale": false
     }
   ],

@@ -1,0 +1,33 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-top: 70px;
+    height: 100vh;
+    background-color: #161b22;
+    top: 0;
+    left: 0;
+
+}
+
+.videoTypeContainer {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    font-family: Roboto-bold;
+    margin: 20px 20px;
+}
+
+.icon {
+    margin-right: 8px;
+}
+
+.videoText {
+    font-size: 24px;
+}
+
+.videoTypeContainer:hover {
+    color: tomato;
+}

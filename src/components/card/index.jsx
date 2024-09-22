@@ -28,10 +28,10 @@ export const Card = ({ movie }) => {
                                 {truncateString(movie.name || movie.alternativeName, 22)}
                             </h1>
                             <div className='movie-block-genre'>
-                                {movie.genres.length > 0 ? (
+                                {movie?.genres && movie.genres.length > 0 ? (
                                     <div className="badge badge-outline">{movie.genres[0].name}</div>
                                 ) : (
-                                    <span>No genre available</span>
+                                    <span>-</span>
                                 )}
                                 <div className='year'>{movie.year}</div>
                             </div>

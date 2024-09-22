@@ -3,7 +3,27 @@
     justify-content: space-between;
     flex-wrap: wrap;
     max-width: 1600px;
-    /* height: 100%; */
     margin: auto;
     margin-top: 50px;
+}
+
+@media (max-width: 1200px) {
+    .content_items {
+
+        align-items: center;
+    }
+}
+
+@media (max-width: 720px) {
+    .content_items {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .content_items {
+        flex-direction: column;
+        gap: 10px;
+    }
 }
