@@ -1,17 +1,39 @@
 import React from 'react'
+import { useEffect, useRef } from "react";
 import { useSelector } from 'react-redux';
-import { useEffect } from 'react';
+
+
+
 
 export const Player = () => {
+    const containerRef = useRef(null);
     const movie = useSelector(state => state.movie.movie);
 
     useEffect(() => {
-        if (window.kbox) {
-            window.kbox('.kinobox_player', { search: { kinopoisk: movie.id } });
-        }
-    }, [movie]);
+        const script = document.createElement("script");
+        script.src = "https://kinobox.tv/kinobox.min.js";
+        script.async = true;
+        document.body.appendChild(script);
 
-    return <div className="kinobox_player" style={{ width: '100%' }}></div>;
-};
+        script.onload = () => {
+            if (containerRef.current) {
+                (window).kbox(containerRef.current, {
+                    search: { kinopoisk: movie.id },
+                    menu: {
+                        enabled: false,
+                    }
+                });
+            }
+        };
+
+        return () => {
+            try {
+                document.body.removeChild(script);
+            } catch (e) { }
+        };
+    }, [movie.id]);
+
+    return <div ref={containerRef} className="kinobox_player"></div>;
+}
 
 
