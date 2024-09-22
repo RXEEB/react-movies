@@ -6,17 +6,25 @@ import { Card } from '../../components/card'
 
 
 export const SearchPage = () => {
-    const [added, setAdded] = React.useState(false)
+
 
     const search = useSelector(state => state.search.search);
 
 
     return (
-        <main className={styles.content_items}>
-            {
-                search.map(movie => <Card movie={movie} key={movie.id} />)
+        <>
+            {search.length > 0 ?
+                <main className={styles.content_items}>
+                    {
+                        search.map(movie => <Card movie={movie} key={movie.id} />)
+                    }
+                </main> :
+                <div className={styles.empty}>
+                    <h1>По вашему запросу ничего не найдено</h1>
+                </div>
+
             }
-        </main>
+        </>
 
     )
 };
