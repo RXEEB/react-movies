@@ -4,7 +4,7 @@ const moviesSlice = createSlice({
     name: 'movies',
     initialState: {
         movies: [],
-        movie: JSON.parse(localStorage.getItem('selectedMovie')) || {},
+        movie: JSON.parse(sessionStorage.getItem('selectedMovie')) || {},
 
 
     },
@@ -12,7 +12,7 @@ const moviesSlice = createSlice({
     reducers: {
         setSelectedMovie: (state, action) => {
             state.movie = action.payload;
-            localStorage.setItem('selectedMovie', JSON.stringify(action.payload));
+            sessionStorage.setItem('selectedMovie', JSON.stringify(action.payload));
         },
         addMovies: (state, action) => {
             state.movies = [...state.movies, ...action.payload];

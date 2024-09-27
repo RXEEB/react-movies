@@ -6,6 +6,7 @@ import selectVideoReducer from '../slices/selectvideoSlice'
 import currentPageReducer from '../slices/currentPageSlice'
 
 
+
 export const store = configureStore({
     reducer: {
         movies: moviesReducer,
@@ -13,5 +14,6 @@ export const store = configureStore({
         search: searchReducer,
         selectVideo: selectVideoReducer,
         currentPage: currentPageReducer,
+
     }
 });

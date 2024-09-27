@@ -25,7 +25,7 @@ function App() {
   React.useEffect(() => {
     async function fetchData() {
       try {
-        const response = await fetch(`https://api.kinopoisk.dev/v1.4/movie?page=${currentPage}&limit=15&selectFields=id&selectFields=persons&selectFields=name&selectFields=description&selectFields=year&selectFields=rating&selectFields=ageRating&selectFields=movieLength&selectFields=genres&selectFields=countries&selectFields=poster&notNullFields=name&notNullFields=description&notNullFields=year&notNullFields=poster.url&type=${selectedVideoType}`, {
+        const response = await fetch(`https://api.kinopoisk.dev/v1.4/movie?page=${currentPage}&year=2024&limit=15&selectFields=id&selectFields=persons&selectFields=name&selectFields=description&selectFields=year&selectFields=rating&selectFields=ageRating&selectFields=movieLength&selectFields=genres&selectFields=countries&selectFields=poster&notNullFields=name&notNullFields=description&notNullFields=year&notNullFields=poster.url&type=${selectedVideoType}`, {
           method: 'GET',
           headers: {
             mode: 'no-cors',

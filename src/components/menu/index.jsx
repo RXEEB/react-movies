@@ -7,7 +7,7 @@ import { clearMovies } from '../../redux/slices/moviesSlice'
 import { setCurrentPage } from '../../redux/slices/currentPageSlice'
 import { Link } from 'react-router-dom';
 
-export const Menu = () => {
+export const Menu = ({ handleMenuClick }) => {
 
     const videoTypes = [
         { video: 'Главная', videoEn: '', videoIcon: <House /> },
@@ -31,11 +31,11 @@ export const Menu = () => {
     return (
         <nav className={styles.menu}>
             <ul>
-                {videoTypes.map((type) => (
-                    <li key={type} className={styles.videoTypeContainer} onClick={() => getVideoType(type)}>
+                {videoTypes.map((type, index) => (
+                    <Link to='/'>      <li key={index} className={styles.videoTypeContainer} onClick={() => { getVideoType(type); handleMenuClick() }}>
                         <span className={styles.icon}>{type.videoIcon}</span>
                         <span className={styles.videoText}>{type.video}</span>
-                    </li>
+                    </li></Link>
                 ))}
             </ul>
         </nav>

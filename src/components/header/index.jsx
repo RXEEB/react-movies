@@ -17,7 +17,7 @@ export const Header = () => {
         <>
 
             <header className="header">
-                {openMenu ? <Menu className='menu-block' /> : null}
+                {openMenu ? <Menu className='menu-block' handleMenuClick={handleMenuClick} /> : null}
 
                 <div className='left-block'>
 
@@ -36,10 +36,6 @@ export const Header = () => {
 
 
             </header>
-
-
-
-
         </>
     )
 }

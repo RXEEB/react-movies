@@ -20,7 +20,7 @@ export const Moviedetails = () => {
                     <img className={styles.poster} src={movie.poster && movie.poster.previewUrl} alt="Movie Poster" />
                     <div className={styles.rating}>
                         <div className={styles.rating_box}>
-                            <img src={kinopoisklogo} alt="кинопоиск" />
+                            <img className={styles.rating_logo} src={kinopoisklogo} alt="кинопоиск" />
                             <div className={styles.rating_box_current}>
                                 <div>{movie.rating.kp}</div>
                                 <div>{movie.votes ? movie.votes.kp : '-'}</div>
@@ -28,7 +28,7 @@ export const Moviedetails = () => {
 
                         </div>
                         <div className={styles.rating_box}>
-                            <img src={imdblogo} alt="imdb" />
+                            <img className={styles.rating_logo} src={imdblogo} alt="imdb" />
                             <div className={styles.rating_box_current}>
                                 <div>{movie.rating.imdb}</div>
                                 <div>{movie.votes ? movie.votes.imdb : '-'}</div>
